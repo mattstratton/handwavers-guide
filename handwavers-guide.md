@@ -158,7 +158,7 @@ There's a reason we have conventions in commit messages. Good commit messages fo
 - Follows the guidelines of the community even if they conflict with any of the above
 
 
-[^1] Except when they don't.
+[^1]: Except when they don't.
 
 ---
 # Test your stuff
@@ -183,7 +183,7 @@ There's a reason we have conventions in commit messages. Good commit messages fo
 
 ![inline 100%](images/solomon.png)![inline 100%](images/arnaud.png)
 
-[^2]:https://blog.jessfraz.com/post/the-art-of-closing/
+[^2]:["The Art of Closing" from Jessie Frazelle's Blog](https://blog.jessfraz.com/post/the-art-of-closing/)
 
 ^ This is the hardest one. You've poured your heart and soul, and spent hours trying to get this PR ready to merge. And then the big bad maintainer says "WONTFIX" and closes it, unmmerged.
 
@@ -212,15 +212,19 @@ There's a reason we have conventions in commit messages. Good commit messages fo
 
 ---
 # Further Resources
- - learn.chef.io (Open Source Collaboration module)
- - gitforteams.com (Emma Jane Hogbin Westby)
- - http://codeinthehole.com/tips/a-useful-template-for-commit-messages/
- - https://github.com/m1foley/fit-commit
- - Open Source Governance 101 by Nell Shamrell-Harrington https://www.youtube.com/watch?v=iBhJBAdPbEE
+ - [learn.chef.io](https://learn.chef.io) (Open Source Collaboration module)
+ - [gitforteams.com](http://gitforteams.com/) (Emma Jane Hogbin Westby)
+ - [http://codeinthehole.com/tips/a-useful-template-for-commit-messages/](http://codeinthehole.com/tips/a-useful-template-for-commit-messages/)
+ - [https://github.com/m1foley/fit-commit](https://github.com/m1foley/fit-commit)
+ - [Open Source Governance 101 by Nell Shamrell-Harrington](https://www.youtube.com/watch?v=iBhJBAdPbEE)
 
 ---
 # Even More Resources!
-- arresteddevops.com
-- github.com/mattstratton/speaking
-- twitter.com/mattstratton
-- speakerdeck.com/mattstratton
+- [arresteddevops.com](arresteddevops.com)
+- [github.com/mattstratton/speaking](https://github.com/mattstratton/speaking)
+- [twitter.com/mattstratton](https://www.twitter.com/mattstratton)
+- [speakerdeck.com/mattstratton](http://speakerdeck.com/mattstratton)
+
+---
+#Thank You
+![](images/ending.gif)
